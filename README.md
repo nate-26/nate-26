@@ -1,4 +1,7 @@
 ### Hi there 👋
+- I’m currently learning C++, LUA and developing applications with GTK
+- Working on my Bachelor's in Computer Science
+- Aspiring Software Developer
 
 <!--
 **nate-26/nate-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
